@@ -1,6 +1,6 @@
 ---
 title: MGH-ER test page
-subtitle: This page is under construction
+subtitle: 'This page is under construction, sorry!'
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
